@@ -1,5 +1,6 @@
 {
-  "Version": "2.0.0.1",
+  "Version": "2.0.0.2",
   "DownloadUrl": "https://github.com/zeussoftdz31-byte/Revolution_Dz_Soft-updates/raw/main/RevolutionDz_Setup.msi",
-  "ReleaseNotes": "القناة الرسمية لتحديثات Revolution_Dz — الإصدار التأسيسي للمنصة الجديدة"
+  "ReleaseNotes": "الإصدار 2.0.0.2 — معالج الإعداد الكامل: اللغة، الدور، النشاط، QR الموقع، وحماية محدثة",
+  "Sha256": "623B757950500032EF0CEBCDBF077AD69D13908F543D9ACE3717F4167CEE1317"
 }
